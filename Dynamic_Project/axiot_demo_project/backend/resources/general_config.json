@@ -1,0 +1,5 @@
+{
+    "ubuntu_resources_path": "/home/ubuntu/{project_name}/PROJECT_NAME/",
+    "windows_resources_path": "C:\\resources\\",
+    "log_path": "/var/log/PROJECT_NAME"
+}
